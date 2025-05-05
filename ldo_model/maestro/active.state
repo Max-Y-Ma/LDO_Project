@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<statedb ICVersion="ICADVM20.1-64b.500.20" modifiedTime="05/05/2025 16:20:42" version="5">active
+<statedb ICVersion="ICADVM20.1-64b.500.20" modifiedTime="05/05/2025 17:31:51" version="5">active
 	<Test Name="ece483_sp23_ldo_model_1">
 		<component Name="adeInfo" Type="skillTable">adeinfo
 			<field Name="descriptiontext" Type="string">"None"</field>
@@ -700,7 +700,7 @@
 						<field Name="areaTable" Type="list">nil</field>
 						<field Name="selectionDetail" Type="list">nil</field>
 						<field Name="value" Type="list">nil</field>
-						<field Name="plot" Type="list">nil</field>
+						<field Name="plot" Type="symbol">t</field>
 						<field Name="save" Type="list">nil</field>
 						<field Name="march" Type="list">nil</field>
 						<field Name="implicit" Type="list">nil</field>
@@ -736,7 +736,7 @@
 						<field Name="areaTable" Type="list">nil</field>
 						<field Name="selectionDetail" Type="list">nil</field>
 						<field Name="value" Type="list">nil</field>
-						<field Name="plot" Type="list">nil</field>
+						<field Name="plot" Type="symbol">t</field>
 						<field Name="save" Type="list">nil</field>
 						<field Name="march" Type="list">nil</field>
 						<field Name="implicit" Type="list">nil</field>
@@ -772,7 +772,7 @@
 						<field Name="areaTable" Type="list">nil</field>
 						<field Name="selectionDetail" Type="list">nil</field>
 						<field Name="value" Type="list">nil</field>
-						<field Name="plot" Type="list">nil</field>
+						<field Name="plot" Type="symbol">t</field>
 						<field Name="save" Type="list">nil</field>
 						<field Name="march" Type="list">nil</field>
 						<field Name="implicit" Type="list">nil</field>
@@ -808,7 +808,7 @@
 						<field Name="areaTable" Type="list">nil</field>
 						<field Name="selectionDetail" Type="list">nil</field>
 						<field Name="value" Type="list">nil</field>
-						<field Name="plot" Type="list">nil</field>
+						<field Name="plot" Type="symbol">t</field>
 						<field Name="save" Type="list">nil</field>
 						<field Name="march" Type="list">nil</field>
 						<field Name="implicit" Type="list">nil</field>
@@ -880,7 +880,7 @@
 						<field Name="areaTable" Type="list">nil</field>
 						<field Name="selectionDetail" Type="list">nil</field>
 						<field Name="value" Type="list">nil</field>
-						<field Name="plot" Type="list">nil</field>
+						<field Name="plot" Type="symbol">t</field>
 						<field Name="save" Type="list">nil</field>
 						<field Name="march" Type="list">nil</field>
 						<field Name="implicit" Type="list">nil</field>
@@ -952,7 +952,7 @@
 						<field Name="areaTable" Type="list">nil</field>
 						<field Name="selectionDetail" Type="list">nil</field>
 						<field Name="value" Type="list">nil</field>
-						<field Name="plot" Type="list">nil</field>
+						<field Name="plot" Type="symbol">t</field>
 						<field Name="save" Type="list">nil</field>
 						<field Name="march" Type="list">nil</field>
 						<field Name="implicit" Type="list">nil</field>
@@ -988,7 +988,7 @@
 						<field Name="areaTable" Type="list">nil</field>
 						<field Name="selectionDetail" Type="list">nil</field>
 						<field Name="value" Type="list">nil</field>
-						<field Name="plot" Type="list">nil</field>
+						<field Name="plot" Type="symbol">t</field>
 						<field Name="save" Type="list">nil</field>
 						<field Name="march" Type="list">nil</field>
 						<field Name="implicit" Type="list">nil</field>
@@ -1516,7 +1516,7 @@
 			<field Name="saveComponent" Type="skillList">
 				<field Name="saveComponent_0" Type="defstruct">sevVariableStruct
 					<field Name="name" Type="string">"Aea"</field>
-					<field Name="expression" Type="string">"4000"</field>
+					<field Name="expression" Type="string">"3131"</field>
 					<field Name="index" Type="fixnum">1</field>
 				</field>
 				<field Name="saveComponent_1" Type="defstruct">sevVariableStruct
@@ -1531,12 +1531,12 @@
 				</field>
 				<field Name="saveComponent_3" Type="defstruct">sevVariableStruct
 					<field Name="name" Type="string">"Gm1"</field>
-					<field Name="expression" Type="string">"531u"</field>
+					<field Name="expression" Type="string">"605u"</field>
 					<field Name="index" Type="fixnum">4</field>
 				</field>
 				<field Name="saveComponent_4" Type="defstruct">sevVariableStruct
 					<field Name="name" Type="string">"Iload"</field>
-					<field Name="expression" Type="string">"20m"</field>
+					<field Name="expression" Type="string">"10m"</field>
 					<field Name="index" Type="fixnum">5</field>
 				</field>
 				<field Name="saveComponent_5" Type="defstruct">sevVariableStruct
@@ -1551,12 +1551,12 @@
 				</field>
 				<field Name="saveComponent_7" Type="defstruct">sevVariableStruct
 					<field Name="name" Type="string">"Rf1"</field>
-					<field Name="expression" Type="string">"2k"</field>
+					<field Name="expression" Type="string">"1k"</field>
 					<field Name="index" Type="fixnum">8</field>
 				</field>
 				<field Name="saveComponent_8" Type="defstruct">sevVariableStruct
 					<field Name="name" Type="string">"Rf2"</field>
-					<field Name="expression" Type="string">"1k"</field>
+					<field Name="expression" Type="string">"2k"</field>
 					<field Name="index" Type="fixnum">9</field>
 				</field>
 				<field Name="saveComponent_9" Type="defstruct">sevVariableStruct

@@ -31,7 +31,7 @@
 				</tooloptions>
 				<vars>
 					<var>Aea
-						<value>4000</value>
+						<value>3131</value>
 					</var>
 					<var>Co1
 						<value>1p</value>
@@ -40,22 +40,22 @@
 						<value>200p</value>
 					</var>
 					<var>Gm1
-						<value>531u</value>
+						<value>605u</value>
 					</var>
 					<var>Iload
-						<value>20m</value>
+						<value>10m</value>
 					</var>
 					<var>Lp
 						<value>360n</value>
 					</var>
 					<var>Wp
-						<value>5.4u</value>
+						<value>2u:1u:10u</value>
 					</var>
 					<var>Rf1
-						<value>2k</value>
+						<value>1k</value>
 					</var>
 					<var>Rf2
-						<value>1k, 4k</value>
+						<value>2k</value>
 					</var>
 					<var>VIN
 						<value>1.8</value>
