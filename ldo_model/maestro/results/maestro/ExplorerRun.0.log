@@ -1,21 +1,19 @@
 Starting Single Run, Sweeps and Corners...
 
-Current time: Mon May  5 17:32:59 2025 
-Best design point: 8
+Current time: Wed May  7 15:28:41 2025 
+Best design point: 1
 Design specs: 
 	ece483_sp23_ldo_model_1	corner	Nominal - 
-	Phase Margin		65.84	Yes
-	Gain Margin		46.47
-	rdsp		820.3
-	gmp		126.2m
+	Phase Margin		76.76	Yes
+	Gain Margin		26.2
+	rdsp		488.3
+	gmp		189m
 	region pmos		2
-	VDC("/Vout")		1.201
-	VDC("/Vg")		1.202
-	IT("/I4/PLUS")		Error	No
+	VDC("/Vout")		1.2
 Design parameters: 
 
 ExplorerRun.0
-Number of points completed: 9
-Number of simulation errors: 9
+Number of points completed: 1
+Number of simulation errors: 0
 ExplorerRun.0 completed. 
-Current time: Mon May  5 17:33:27 2025 
+Current time: Wed May  7 15:28:45 2025 

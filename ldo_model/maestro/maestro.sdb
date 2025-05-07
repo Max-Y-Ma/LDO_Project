@@ -31,7 +31,7 @@
 				</tooloptions>
 				<vars>
 					<var>Aea
-						<value>3131</value>
+						<value>2000</value>
 					</var>
 					<var>Co1
 						<value>1p</value>
@@ -40,16 +40,16 @@
 						<value>200p</value>
 					</var>
 					<var>Gm1
-						<value>605u</value>
+						<value>488u</value>
 					</var>
 					<var>Iload
-						<value>10m</value>
+						<value>20m</value>
 					</var>
 					<var>Lp
 						<value>360n</value>
 					</var>
 					<var>Wp
-						<value>2u:1u:10u</value>
+						<value>10u</value>
 					</var>
 					<var>Rf1
 						<value>1k</value>
@@ -64,7 +64,7 @@
 						<value>0</value>
 					</var>
 					<var>VREF
-						<value>1.2*(Rf2/(Rf1+Rf2))</value>
+						<value>0.8</value>
 					</var>
 					<var>vref
 						<value>0</value>
@@ -98,9 +98,6 @@
 						<evalType>point</evalType>
 					</output>
 					<output>region pmos
-						<evalType>point</evalType>
-					</output>
-					<output>VDC("/Vg")
 						<evalType>point</evalType>
 					</output>
 					<output>Vin_tran
