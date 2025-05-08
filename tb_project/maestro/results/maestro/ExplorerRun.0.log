@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Thu May  8 18:14:19 2025 
+Best design point: 19
+Design specs: 
+	ece483_sp25_tb_project_1	corner	Nominal - 
+	VDC("/Vout")		1.2
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 37
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Thu May  8 18:15:02 2025 
